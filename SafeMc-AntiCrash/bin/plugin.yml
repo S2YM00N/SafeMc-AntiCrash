@@ -1,0 +1,8 @@
+main: pl.hp888.safemc.Main
+version: 3.4
+name: SafeMC-AntiCrash
+author: HP888
+
+commands:
+  safemc: 
+  check:
